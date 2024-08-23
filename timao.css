@@ -44,12 +44,6 @@ header nav li a
     padding: 0;
     margin: 0;
 }
-
-header li a:hover
-{
-    /*background-color: silver;*/
-}
-
 .container
 {
     max-width: 1280px;
